@@ -8,7 +8,6 @@ The Machine Learning and Artifical Intelligence Applcations Special Interest Gro
 * Drive shared benchmarks and evaluation infrastructure
 * Collect and provide quantitative data supporting RISC-V extensions and standardization efforts
 * Drive documentation, training, and evangelism around RISC-V in AI/ML software
-* Collaborate with AI/ML Concepts SIG & Attached Matrix Facility Extension TG
 
 == Background
 
