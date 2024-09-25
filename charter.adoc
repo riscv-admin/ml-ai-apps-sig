@@ -1,39 +1,32 @@
-= { New Group Name } { New Group Type } Charter
+= Machine Learning and Artifical Intelligence Applcations Special Interest Group (ML-AI-APPS-SIG) Charter
 
 == Introduction
 
-The {New Group Name} {New Group Type} aims to [INSERT CLEAR, CONCISE OVERALL MISSION STATEMENT IN 2-3 SENTENCES].
+The Machine Learning and Artifical Intelligence Applcations Special Interest Group (ML-AI-APPS-SIG) aims to coordinate & nurture RISC-V software support for AI/ML by collaboration with academia, industry, and RISC-V foundation members to define or achieve:
 
-== Definitions (Optional)
-
-[TERM 1] refers to [DEFINITION 1]. It is critical because [EXPLAIN SIGNIFICANCE]. [INCLUDE ADDITIONAL TERMS/DEFINITIONS IF REQUIRED].
+* RISC-V AI/ML standard support for domain specific compilers, are composable, and provide sufficient flexibility wrt standardization
+* Drive shared benchmarks and evaluation infrastructure
+* Collect and provide quantitative data supporting RISC-V extensions and standardization efforts
+* Drive documentation, training, and evangelism around RISC-V in AI/ML software
+* Collaborate with AI/ML Concepts SIG & Attached Matrix Facility Extension TG
 
 == Background
 
-[PROVIDE CONTEXT ABOUT THE GROUP'S RELEVANCE AND ANY PERTINENT TECHNOLOGY].
+Machine Learning (ML) and Artificial Intelligence (AI) have gained prominance over the past 20 years. The adoption and development of both technology domains is driven and accelerated by significant advancements in storage, memory, and hardware architectures. ML and AI require non-trivial compute resources. ML and AI reflect computing challanges that the scientific computing community has wrangled for decades. The application of ML and AI also presents unique technology challenges that need to be addressed seperately from the scientific computing domain. The RISC-V Foundation's ML-AI-APPS-SIG exists to identify software that expresses the overlap between ML and AI software with other technology domains along with unique points of differentation. ML-AI-APPS-SIG's work aims to drive requirements and provide situational awareness to other groups within the RISC-V foundation.
 
 == Objectives
 
-The {New Group Name} {New Group Type} is committed to delivering [SPECIFY DELIVERABLE] with the following attributes:
+The ML-AI-APPS-SIG is committed to delivering an annual report with the following attributes:
 
-* [ATTRIBUTE 1]
-* [ATTRIBUTE 2]
-* [ADD MORE AS REQUIRED]
-
-== Exclusions (Optional)
-
-While not currently in scope, the following items may be considered for future iterations:
-
-* [FEATURE 1]
-* [FEATURE 2]
-* [ADD MORE AS REQUIRED]
+* Identify benchmarks, domain specific compilers, provide gap analysis, promotional opportunities, and identify testing/evaluation infrastructure
+* Promote venues for the RISC-V to engage with the ML/AI community and participate in organizing events at workshops
+* Partner with RISC-V foundation groups to create consistent and coherent products that improve ISA extensions and the RISC-V ecosystem at large
 
 == Collaborations
 
-To fulfill its objectives, the {New Group Name} {New Group Type} will engage with:
+To fulfill its objectives, the ML-AI-APPS-SIG will engage with:
 
-* [GROUP NAME 1] [GROUP TYPE 1]
-* [GROUP NAME 2] [GROUP TYPE 2]
-* [ADDITIONAL GROUPS AS NEEDED]
-
-NOTE: Ensure to replace all placeholders ({ }) with the actual names or information and remove any optional sections that are not applicable to your charter. Also, remove this note :)
+* ML/AI SIG
+* ML/AI Concepts SIG
+* Attached Matrix Facility Extension TG
+* Integrated Matrix TG (Vector support for matrix operations)
